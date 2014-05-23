@@ -9,7 +9,7 @@ var menuIndex = 1;
 var menuArr = ["STORY","CHALLENGE", "GREEN", "MASTER", "FUTURE", "PLAN","FILM","CONTACT US"];
 var picNumArr = [2,4,3,3,2,1,1,1];
 
-
+//hahahahahahha
 
 $(document).ready(function(){
 	
