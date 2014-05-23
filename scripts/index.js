@@ -10,6 +10,7 @@ var menuArr = ["STORY","CHALLENGE", "GREEN", "MASTER", "FUTURE", "PLAN","FILM","
 var picNumArr = [2,4,3,3,2,1,1,1];
 
 //hahahahahahha
+//llllllllll
 
 $(document).ready(function(){
 	
